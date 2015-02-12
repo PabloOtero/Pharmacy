@@ -1,0 +1,12 @@
+Hospitalization cost per patient and per day	498
+Mean days of hospitalization	8.55
+Risk of increased hospital stay in case of lethal MRP (%)	60
+Risk of increased hospital stay in case of serious MRP (%)	40
+Risk of increased hospital stay in case of significant MRP (%)	10
+Risk of increased hospital stay in case of non-significant MRP (%)	0
+Mean acceptance (%) of the pharmacist reccomendations by the emergency department	84
+Mean admission (%) in a Hospital Unit after passing through the Obervation Unit	27
+How much dollars is 1 euro?	1.3129
+Define threshold of minimum air temperature (ºC) to describe colder days 	7
+Define threshold of maximum air temperature (ºC) to describe warmer days 	30
+Define minimum difference among max and min temperature in days with srong thermal oscillation 	15
